@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is David Cabrera Cepeda
 
  - 🔭 I’m currently working at Scotiabank as a Junior PEGA Developer
- - 🌱 I’m currently learning at Udemy, Platzi and Youtube
+ - 🌱 I’m currently learning at Ada-School(https://ada-school.org/), Udemy, Platzi and Youtube
  - ⚡ Interests: Android Development, Kotlin, Java and React
  - 👯 I’m looking to collaborate on Android Projects
  - 📫 How to reach me: https://www.linkedin.com/in/david-cabrera-cepeda-78b644130
