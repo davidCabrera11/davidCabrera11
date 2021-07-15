@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is David Cabrera Cepeda
 
- - 🔭 I’m currently working at Scotiabank as a Junior PEGA Developer
+ - 🔭 I’m currently working at Perficient Latam as an Android Developer
  - 🌱 I’m currently learning at Ada-School(https://ada-school.org/), Udemy, Platzi and Youtube
  - ⚡ Interests: Android Development, Kotlin, Java and React
  - 👯 I’m looking to collaborate on Android Projects
