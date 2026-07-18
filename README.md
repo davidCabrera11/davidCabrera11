@@ -1,7 +1,7 @@
 ### Hello 👋 my name is David Cabrera Cepeda
 
- - 🔭 I’m currently working at Perficient as an Android Developer
- - ⚡ Interested in: Android Development, Kotlin, React, React Native, Next js
+ - 🔭 I’m currently working at Murarte Global as an Android Developer
+ - ⚡ Interested in: Android Development, Kotlin, KMP, CMP
  - 📫 How to reach me: https://www.linkedin.com/in/david-cabrera-cepeda-78b644130
 <!--
 **davidCabrera11/davidCabrera11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
