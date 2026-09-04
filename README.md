@@ -3,6 +3,17 @@
  - 🔭 I’m currently working at Murarte Global as an Android Developer
  - ⚡ Interested in: Android Development, Kotlin, KMP, CMP
  - 📫 How to reach me: https://www.linkedin.com/in/david-cabrera-cepeda-78b644130
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/KMP-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
 <!--
 **davidCabrera11/davidCabrera11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
