@@ -1,7 +1,7 @@
-### Hello 👋 my name is David Cabrera Cepeda
+# Hi there 👋! I'm David Cabrera Cepeda
+**Senior Android Software Engineer**
 
- - 🔭 I’m currently working at Murarte Global as an Android Developer
- - ⚡ Interested in: Android Development, Kotlin, KMP, CMP
+I'm a **Senior Software Developer** with over 5+ years of experience building high performing and scalable mobile applications for Android.
 
 ### 🛠️ Languages & Tools
 <p align="left">
